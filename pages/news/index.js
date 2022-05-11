@@ -9,7 +9,7 @@ export default function News({ news }) {
     <div>
       <Layout>
         <h1>News</h1>
-        {news.length === 0 && <h3>No News</h3>}
+        {news.length === 0 && <h2>No News</h2>}
         {news.map((item) => (
           <NewsItem key={item.id} news={item} />
         ))}

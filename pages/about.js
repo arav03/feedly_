@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div>
       <Layout title="About Sport News">
-        <h1>About</h1>
+        <h1>About page</h1>
         <p>
           WebApp to find out about news
         </p>

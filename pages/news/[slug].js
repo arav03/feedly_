@@ -7,7 +7,7 @@ import styles from "@/styles/News.module.css";
 
 export default function SingleNews({ news }) {
   const router = useRouter();
-  console.log("router===>", router);
+  console.log("router==>", router);
   return (
     <Layout>
       <div className={styles.news}>
