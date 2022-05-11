@@ -7,8 +7,7 @@ export default function About() {
       <Layout title="About Sport News">
         <h1>About</h1>
         <p>
-          App to find out Sport News like Cricket, football, F1, Tennis, Golf
-          etc
+          WebApp to find out about news
         </p>
       </Layout>
     </div>
